@@ -1,0 +1,9 @@
+html {  
+    font-family: 'JetBrains Mono', monospace;
+}
+
+body {
+    padding: 0px 20px 20px 20px;
+    margin: 0 auto;
+    background-color: purple;
+}
